@@ -1,2 +1,2 @@
 # Image-Generation
-Utilizing pre-trained models to create images from text prompts.
+Utilizing pre-trained models to create images from text prompts. 
